@@ -137,7 +137,7 @@ export default function LoginPage() {
     return (
         <div
             ref={containerRef}
-            className="min-h-screen w-full flex items-center justify-center bg-background relative overflow-hidden invisible"
+            className="min-h-screen w-full flex items-center justify-center bg-[#F9F6F0] relative overflow-hidden invisible"
         >
             {/* Initial Centered Container - Absolute Overlay */}
             <div
@@ -147,12 +147,14 @@ export default function LoginPage() {
                 {/* Title starts here */}
             </div>
 
-            {/* Decorative Background Elements */}
-            <div className="bg-pattern absolute inset-0 pointer-events-none bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-0 mix-blend-multiply" />
-            <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-accent rounded-full blur-3xl opacity-30 -translate-y-1/2 translate-x-1/2" />
-            <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-primary rounded-full blur-3xl opacity-10 translate-y-1/2 -translate-x-1/2" />
+            {/* Subtle Texture Pattern */}
+            <div className="absolute inset-0 pointer-events-none opacity-[0.4] bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] mix-blend-soft-light" />
 
-            <div className="w-full max-w-md p-8 relative z-10">
+            {/* Very subtle ambient glow, less intrusive than before */}
+            <div className="absolute top-[-10%] right-[-10%] w-[800px] h-[800px] bg-[#E86C24]/5 rounded-full blur-[120px]" />
+            <div className="absolute bottom-[-10%] left-[-10%] w-[600px] h-[600px] bg-[#E86C24]/5 rounded-full blur-[100px]" />
+
+            <div className="w-full max-w-[400px] relative z-10 mx-auto">
                 {/* Header Section */}
                 <div className="text-center mb-7 space-y-2 flex flex-col items-center">
                     {/* Final Position Container */}
@@ -181,7 +183,7 @@ export default function LoginPage() {
                     className="bg-white/80 backdrop-blur-xl border-border/10 opacity-0 translate-y-8"
                 >
                     <CardContent className="p-8 pt-8">
-                        <form onSubmit={handleLogin} className="space-y-6">
+                        <form onSubmit={handleLogin} className="space-y-4">
                             <div className="space-y-2">
                                 <Label htmlFor="email">Email Address</Label>
                                 <Input
@@ -202,23 +204,25 @@ export default function LoginPage() {
                                 />
                             </div>
 
-                            <Button
-                                type="submit"
-                                className="w-full py-4 text-base font-bold bg-gradient-to-br from-primary to-[#FB9E45] hover:from-primary hover:to-primary text-primary-foreground shadow-xl shadow-primary/30 hover:shadow-primary/40 border border-primary/20 rounded-xl transition-all hover:scale-[1.01] active:scale-[0.98]"
-                                disabled={isLoading}
-                            >
-                                {isLoading ? (
-                                    <div className="flex items-center gap-2">
-                                        <Loader2 className="w-5 h-5 animate-spin" />
-                                        <span>Verifying...</span>
-                                    </div>
-                                ) : (
-                                    <div className="flex items-center justify-center gap-2">
-                                        <span>Access Dashboard</span>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="opacity-80"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
-                                    </div>
-                                )}
-                            </Button>
+                            <div className="pt-5">
+                                <Button
+                                    type="submit"
+                                    className="w-full py-4 text-base font-bold bg-gradient-to-br from-primary to-[#FB9E45] hover:from-primary hover:to-primary text-primary-foreground shadow-xl shadow-primary/30 hover:shadow-primary/40 border border-primary/20 rounded-xl transition-all hover:scale-[1.01] active:scale-[0.98]"
+                                    disabled={isLoading}
+                                >
+                                    {isLoading ? (
+                                        <div className="flex items-center gap-2">
+                                            <Loader2 className="w-5 h-5 animate-spin" />
+                                            <span>Verifying...</span>
+                                        </div>
+                                    ) : (
+                                        <div className="flex items-center justify-center gap-2">
+                                            <span>Access Dashboard</span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="opacity-80"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
+                                        </div>
+                                    )}
+                                </Button>
+                            </div>
 
                             <p className="text-center text-xs text-secondary/60 mt-4">
                                 Authorized Personnel Only • Secure System
