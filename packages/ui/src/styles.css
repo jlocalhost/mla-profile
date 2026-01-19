@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FA8112;
+  --color-primary-foreground: #FFFFFF;
+
+  --color-secondary: #1C293C;
+  --color-secondary-foreground: #FFFFFF;
+
+  --color-accent: #F5E7C6;
+  --color-accent-foreground: #222222;
+
+  --color-background: #FAF3E1;
+  --color-foreground: #222222;
+
+  --color-muted: #F5E7C6;
+  --color-muted-foreground: #1C293C;
+  
+  --color-card: #FFFFFF;
+  --color-card-foreground: #222222;
+
+  --color-border: #1C293C;
+}
+
+/* Base styles to apply the theme */
+:root {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}
+

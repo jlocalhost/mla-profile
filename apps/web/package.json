@@ -1,0 +1,35 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.0",
+    "@repo/db": "*",
+    "@repo/ui": "*",
+    "@repo/utils": "*",
+    "d3": "latest",
+    "gsap": "^3.12.5",
+    "lucide-react": "^0.562.0",
+    "next": "latest",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "latest"
+  },
+  "devDependencies": {
+    "@repo/config": "*",
+    "@tailwindcss/postcss": "^4.0.0-alpha.16",
+    "@types/d3": "latest",
+    "@types/node": "latest",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "latest",
+    "tailwindcss": "^4.0.0-alpha.16",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "extends": "../../packages/config/tsconfig.json",
+    "compilerOptions": {
+        "module": "esnext",
+        "outDir": "dist"
+    },
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "dist",
+        "build",
+        "node_modules"
+    ]
+}
