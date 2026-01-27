@@ -1,0 +1,201 @@
+ac_id,ac_number,ac_name,name,caste,category,ad_name,party_name,age,qualification,occupation,political_background,political_journey,ac_grade,total_voters,male_voters,female_voters,last_ae_turnout
+2714,1,"Sadulshahar","Ramesh Kumar",OBC,SC,"AD-1",BJP,55,Graduate,Farmer,"Won from Sadulshahar in 2018","Active since 1995",A,149608,77796,71812,56.11
+2715,2,"Ganganagar","Ramesh Kumar",ST,SC,"AD-2",INC,55,Post Graduate,Lawyer,"Won from Ganganagar in 2018","Active since 2005",C,161502,83981,77521,60.45
+2716,3,"Karanpur","Suresh Sharma",ST,OBC,"AD-3",Independent,54,10th Pass,Teacher,"Won from Karanpur in 2018","Active since 1994",B,148058,76990,71068,64.51
+2717,4,"Suratgarh","Priya Verma",SC,GEN,"AD-4",Independent,38,12th Pass,Businessman,"Won from Suratgarh in 2018","Active since 2003",B,123510,64225,59285,74.03
+2718,5,"Raisinghnagar (SC)","Mohan Lal",General,OBC,"AD-5",AAP,62,Graduate,Farmer,"Won from Raisinghnagar (SC) in 2018","Active since 1993",A,165482,86050,79432,54.91
+2719,6,"Anupgarh (SC)","Suresh Sharma",General,ST,"AD-6",BSP,37,10th Pass,Lawyer,"Won from Anupgarh (SC) in 2018","Active since 2010",C,222454,115676,106778,73.95
+2720,7,"Sangaria","Mohan Lal",General,ST,"AD-7",INC,67,Graduate,Politician,"Won from Sangaria in 2018","Active since 1998",B,285822,148627,137195,50.23
+2721,8,"Hanumangarh","Ramesh Kumar",General,GEN,"AD-8",INC,45,Post Graduate,Teacher,"Won from Hanumangarh in 2018","Active since 2009",D,229458,119318,110140,58.83
+2722,9,"Pilibanga (SC)","Mohan Lal",SC,OBC,"AD-9",INC,55,PhD,Businessman,"Won from Pilibanga (SC) in 2018","Active since 1992",D,173100,90012,83088,63.19
+2723,10,"Nohar","Priya Verma",General,OBC,"AD-10",AAP,66,10th Pass,Politician,"Won from Nohar in 2018","Active since 2002",D,182309,94800,87509,56.18
+2724,11,"Bhadra","Sunita Devi",General,ST,"AD-11",BJP,40,PhD,Farmer,"Won from Bhadra in 2018","Active since 1991",D,110266,57338,52928,67.91
+2725,12,"Khajuwala(SC)","Sunita Devi",OBC,ST,"AD-12",BJP,59,PhD,Businessman,"Won from Khajuwala(SC) in 2018","Active since 2003",A,284604,147994,136610,57.28
+2726,13,"Bikaner West","Priya Verma",SC,ST,"AD-13",BSP,44,Post Graduate,Teacher,"Won from Bikaner West in 2018","Active since 1994",A,100988,52513,48475,70.88
+2727,14,"Bikaner East","Mohan Lal",General,SC,"AD-14",Independent,70,12th Pass,Businessman,"Won from Bikaner East in 2018","Active since 2003",D,156691,81479,75212,78.29
+2728,15,"Kolayat","Sunita Devi",General,OBC,"AD-15",INC,55,Graduate,Businessman,"Won from Kolayat in 2018","Active since 1991",D,250467,130242,120225,59.07
+2729,16,"Lunkaransar","Priya Verma",SC,GEN,"AD-16",BSP,43,Post Graduate,Lawyer,"Won from Lunkaransar in 2018","Active since 1992",A,107806,56059,51747,68.73
+2730,17,"Dungargarh","Suresh Sharma",SC,GEN,"AD-17",AAP,42,10th Pass,Lawyer,"Won from Dungargarh in 2018","Active since 1999",B,280611,145917,134694,75.79
+2907,18,"Nokha","Mohan Lal",General,ST,"AD-18",AAP,70,PhD,Teacher,"Won from Nokha in 2018","Active since 1997",D,221798,115334,106464,60.72
+2732,19,"Sadulpur","Mohan Lal",ST,GEN,"AD-19",BSP,61,Post Graduate,Businessman,"Won from Sadulpur in 2018","Active since 1994",B,235922,122679,113243,74.80
+2733,20,"Taranagar","Priya Verma",OBC,ST,"AD-20",AAP,36,10th Pass,Lawyer,"Won from Taranagar in 2018","Active since 2005",D,292102,151893,140209,61.76
+2734,21,"Sardarshahar","Ramesh Kumar",OBC,OBC,"AD-21",AAP,45,PhD,Businessman,"Won from Sardarshahar in 2018","Active since 1998",D,236412,122934,113478,58.78
+2735,22,"Churu","Priya Verma",ST,ST,"AD-22",AAP,51,12th Pass,Politician,"Won from Churu in 2018","Active since 2004",A,189021,98290,90731,73.70
+2736,23,"Ratangarh","Suresh Sharma",ST,GEN,"AD-23",Independent,46,Graduate,Politician,"Won from Ratangarh in 2018","Active since 2007",A,106115,55179,50936,62.83
+2737,24,"Sujangarh (SC)","Priya Verma",SC,SC,"AD-24",Independent,54,Graduate,Teacher,"Won from Sujangarh (SC) in 2018","Active since 2005",B,137771,71640,66131,71.34
+2738,25,"Pilani (SC)","Mohan Lal",General,ST,"AD-25",INC,61,10th Pass,Teacher,"Won from Pilani (SC) in 2018","Active since 1992",C,270810,140821,129989,70.90
+2739,26,"Surajgarh","Mohan Lal",SC,GEN,"AD-26",Independent,61,Graduate,Politician,"Won from Surajgarh in 2018","Active since 2004",A,143565,74653,68912,64.69
+2740,27,"Jhunjhunu","Sunita Devi",ST,ST,"AD-27",Independent,54,Post Graduate,Lawyer,"Won from Jhunjhunu in 2018","Active since 1995",C,128942,67049,61893,67.40
+2741,28,"Mandawa","Sunita Devi",General,ST,"AD-28",BSP,38,12th Pass,Teacher,"Won from Mandawa in 2018","Active since 2006",B,184137,95751,88386,67.84
+2742,29,"Nawalgarh","Priya Verma",ST,SC,"AD-29",Independent,38,Graduate,Teacher,"Won from Nawalgarh in 2018","Active since 2006",D,196703,102285,94418,51.25
+2743,30,"Udaipurwati","Priya Verma",OBC,SC,"AD-30",Independent,64,Post Graduate,Teacher,"Won from Udaipurwati in 2018","Active since 1993",B,245994,127916,118078,63.22
+2744,31,"Khetri","Mohan Lal",General,SC,"AD-31",BSP,44,PhD,Politician,"Won from Khetri in 2018","Active since 2000",B,272754,141832,130922,79.34
+2712,32,"Fatehpur","Sunita Devi",General,SC,"AD-32",BJP,50,PhD,Politician,"Won from Fatehpur in 2018","Active since 1990",C,138819,72185,66634,79.45
+2745,33,"Lachmangarh","Sunita Devi",SC,ST,"AD-33",AAP,38,PhD,Farmer,"Won from Lachmangarh in 2018","Active since 2003",C,298450,155194,143256,74.33
+2746,34,"Dhod (SC)","Suresh Sharma",ST,OBC,"AD-34",BSP,69,10th Pass,Teacher,"Won from Dhod (SC) in 2018","Active since 2005",C,139684,72635,67049,56.35
+2747,35,"Sikar","Sunita Devi",SC,GEN,"AD-35",INC,50,PhD,Politician,"Won from Sikar in 2018","Active since 1992",C,216105,112374,103731,67.70
+2748,36,"Dantaramgarh","Suresh Sharma",ST,GEN,"AD-36",BJP,45,Post Graduate,Lawyer,"Won from Dantaramgarh in 2018","Active since 2003",B,197304,102598,94706,79.06
+2749,37,"Khandela","Mohan Lal",General,ST,"AD-37",INC,53,Graduate,Teacher,"Won from Khandela in 2018","Active since 2006",C,108897,56626,52271,74.45
+2750,38,"Neem Ka Thana","Sunita Devi",General,OBC,"AD-38",BJP,49,PhD,Teacher,"Won from Neem Ka Thana in 2018","Active since 1995",B,115714,60171,55543,52.30
+2751,39,"Srimadhopur","Sunita Devi",SC,ST,"AD-39",BJP,38,Graduate,Politician,"Won from Srimadhopur in 2018","Active since 2010",D,154293,80232,74061,74.35
+2752,40,"Kotputli","Suresh Sharma",OBC,OBC,"AD-40",BSP,38,10th Pass,Lawyer,"Won from Kotputli in 2018","Active since 2002",D,173542,90241,83301,52.85
+2753,41,"Viratnagar","Priya Verma",General,ST,"AD-41",Independent,38,Graduate,Lawyer,"Won from Viratnagar in 2018","Active since 2010",A,128094,66608,61486,73.41
+2754,42,"Shahpura","Suresh Sharma",OBC,GEN,"AD-42",AAP,52,Post Graduate,Politician,"Won from Shahpura in 2018","Active since 1994",A,116088,60365,55723,65.13
+2755,43,"Chomu","Priya Verma",ST,ST,"AD-43",Independent,40,Post Graduate,Politician,"Won from Chomu in 2018","Active since 2001",B,178340,92736,85604,79.49
+2756,44,"Phulera","Suresh Sharma",ST,SC,"AD-44",INC,48,12th Pass,Lawyer,"Won from Phulera in 2018","Active since 1994",A,265518,138069,127449,66.29
+2757,45,"Dudu(SC)","Mohan Lal",OBC,ST,"AD-45",BJP,68,12th Pass,Businessman,"Won from Dudu(SC) in 2018","Active since 1998",A,197809,102860,94949,51.73
+2758,46,"Jhotwara","Priya Verma",OBC,SC,"AD-46",BJP,47,Post Graduate,Politician,"Won from Jhotwara in 2018","Active since 2006",D,165580,86101,79479,56.27
+2759,47,"Amber","Sunita Devi",ST,ST,"AD-47",INC,43,10th Pass,Farmer,"Won from Amber in 2018","Active since 1991",A,254627,132406,122221,72.55
+2760,48,"Jamwa Ramgarh (ST)","Sunita Devi",ST,SC,"AD-48",BSP,61,Post Graduate,Businessman,"Won from Jamwa Ramgarh (ST) in 2018","Active since 2008",C,225297,117154,108143,50.94
+2761,49,"Hawamahal","Sunita Devi",SC,OBC,"AD-49",INC,70,10th Pass,Businessman,"Won from Hawamahal in 2018","Active since 2004",A,193930,100843,93087,66.75
+2762,50,"Vidhyadhar Nagar","Ramesh Kumar",OBC,ST,"AD-50",BSP,67,PhD,Businessman,"Won from Vidhyadhar Nagar in 2018","Active since 2009",B,268859,139806,129053,57.13
+2763,51,"Civil Lines","Priya Verma",General,OBC,"AD-51",INC,59,10th Pass,Farmer,"Won from Civil Lines in 2018","Active since 2006",D,188078,97800,90278,74.62
+2764,52,"Kishan Pole","Sunita Devi",General,ST,"AD-52",BJP,44,Graduate,Teacher,"Won from Kishan Pole in 2018","Active since 2000",C,176722,91895,84827,73.94
+2709,53,"Adarsh Nagar","Mohan Lal",SC,ST,"AD-53",INC,42,10th Pass,Politician,"Won from Adarsh Nagar in 2018","Active since 2005",B,201252,104651,96601,78.72
+2906,54,"Malviya Nagar","Mohan Lal",ST,ST,"AD-54",BSP,62,PhD,Lawyer,"Won from Malviya Nagar in 2018","Active since 2008",C,112395,58445,53950,62.79
+2765,55,"Sanganer","Ramesh Kumar",ST,OBC,"AD-55",BSP,35,Graduate,Businessman,"Won from Sanganer in 2018","Active since 1993",B,254456,132317,122139,60.67
+2766,56,"Bagru (SC)","Ramesh Kumar",General,ST,"AD-56",BSP,47,10th Pass,Businessman,"Won from Bagru (SC) in 2018","Active since 1994",B,108338,56335,52003,65.83
+2767,57,"Bassi (ST)","Mohan Lal",General,ST,"AD-57",AAP,50,Graduate,Lawyer,"Won from Bassi (ST) in 2018","Active since 2006",C,177769,92439,85330,62.57
+2768,58,"Chaksu (SC)","Suresh Sharma",ST,SC,"AD-58",AAP,70,Graduate,Businessman,"Won from Chaksu (SC) in 2018","Active since 1990",A,167833,87273,80560,50.47
+2769,59,"Tijara","Mohan Lal",ST,ST,"AD-59",INC,42,Post Graduate,Politician,"Won from Tijara in 2018","Active since 2003",A,210559,109490,101069,77.23
+2770,60,"Kishangarh Bas","Mohan Lal",SC,OBC,"AD-60",AAP,64,PhD,Teacher,"Won from Kishangarh Bas in 2018","Active since 1993",D,205813,107022,98791,65.19
+2771,61,"Mundawar","Priya Verma",General,GEN,"AD-61",Independent,40,Post Graduate,Businessman,"Won from Mundawar in 2018","Active since 1992",B,154124,80144,73980,67.93
+2772,62,"Behror","Priya Verma",General,GEN,"AD-62",Independent,54,Post Graduate,Businessman,"Won from Behror in 2018","Active since 2007",A,208038,108179,99859,69.51
+2773,63,"Bansur","Mohan Lal",SC,GEN,"AD-63",BJP,48,Post Graduate,Lawyer,"Won from Bansur in 2018","Active since 2009",A,259829,135111,124718,58.60
+2774,64,"Thanagazi","Mohan Lal",General,ST,"AD-64",BSP,50,12th Pass,Teacher,"Won from Thanagazi in 2018","Active since 2000",D,110976,57707,53269,75.25
+2775,65,"Alwar Rural (SC)","Ramesh Kumar",OBC,GEN,"AD-65",INC,52,Post Graduate,Teacher,"Won from Alwar Rural (SC) in 2018","Active since 2003",D,249202,129585,119617,61.78
+2776,66,"Alwar Urban","Suresh Sharma",ST,OBC,"AD-66",AAP,61,12th Pass,Lawyer,"Won from Alwar Urban in 2018","Active since 2007",D,288386,149960,138426,77.85
+2908,67,"Ramgarh","Mohan Lal",ST,SC,"AD-67",BJP,44,Post Graduate,Lawyer,"Won from Ramgarh in 2018","Active since 2003",D,138240,71884,66356,74.68
+2777,68,"Rajgarh Laxmangarh (ST)","Priya Verma",ST,SC,"AD-68",BJP,67,10th Pass,Politician,"Won from Rajgarh Laxmangarh (ST) in 2018","Active since 2001",C,295257,153533,141724,68.38
+2778,69,"Kathumar (SC)","Suresh Sharma",ST,ST,"AD-69",Independent,61,10th Pass,Lawyer,"Won from Kathumar (SC) in 2018","Active since 1990",C,155235,80722,74513,72.72
+2779,70,"Kaman","Priya Verma",General,OBC,"AD-70",Independent,65,10th Pass,Farmer,"Won from Kaman in 2018","Active since 2001",C,232629,120967,111662,56.44
+2780,71,"Nagar","Mohan Lal",General,GEN,"AD-71",BSP,58,PhD,Lawyer,"Won from Nagar in 2018","Active since 2005",C,249494,129736,119758,56.74
+2781,72,"Deeg Kumher","Mohan Lal",General,OBC,"AD-72",BSP,59,12th Pass,Farmer,"Won from Deeg Kumher in 2018","Active since 1996",C,178150,92638,85512,70.01
+2711,73,"Bharatpur","Ramesh Kumar",OBC,OBC,"AD-73",INC,36,12th Pass,Teacher,"Won from Bharatpur in 2018","Active since 2007",A,121860,63367,58493,74.73
+2782,74,"Nadbai","Suresh Sharma",General,ST,"AD-74",AAP,49,Graduate,Teacher,"Won from Nadbai in 2018","Active since 2009",D,217761,113235,104526,55.40
+2783,75,"Weir(SC)","Suresh Sharma",General,OBC,"AD-75",Independent,55,10th Pass,Lawyer,"Won from Weir(SC) in 2018","Active since 1996",B,161979,84229,77750,60.52
+2784,76,"Bayana (SC)","Suresh Sharma",General,ST,"AD-76",BSP,64,Graduate,Teacher,"Won from Bayana (SC) in 2018","Active since 2000",C,156644,81454,75190,72.31
+2785,77,"Baseri (SC)","Ramesh Kumar",SC,GEN,"AD-77",INC,57,Graduate,Politician,"Won from Baseri (SC) in 2018","Active since 2001",A,115385,60000,55385,72.76
+2710,78,"Bari","Mohan Lal",SC,OBC,"AD-78",AAP,46,Graduate,Farmer,"Won from Bari in 2018","Active since 2008",D,144802,75297,69505,77.62
+2786,79,"Dholpur","Mohan Lal",SC,GEN,"AD-79",INC,60,Post Graduate,Politician,"Won from Dholpur in 2018","Active since 1995",D,199148,103556,95592,72.81
+2787,80,"Rajakhera","Mohan Lal",OBC,OBC,"AD-80",AAP,52,12th Pass,Farmer,"Won from Rajakhera in 2018","Active since 2002",A,118433,61585,56848,55.96
+2788,81,"Todabhim (ST)","Ramesh Kumar",SC,OBC,"AD-81",BSP,65,Graduate,Politician,"Won from Todabhim (ST) in 2018","Active since 2001",A,235072,122237,112835,52.97
+2789,82,"Hindaun (SC)","Sunita Devi",ST,ST,"AD-82",BJP,35,Post Graduate,Farmer,"Won from Hindaun (SC) in 2018","Active since 2007",B,136043,70742,65301,66.35
+2790,83,"Karauli","Ramesh Kumar",General,OBC,"AD-83",AAP,38,12th Pass,Politician,"Won from Karauli in 2018","Active since 1996",D,286368,148911,137457,62.18
+2791,84,"Sapotra (ST)","Priya Verma",OBC,SC,"AD-84",BJP,43,10th Pass,Teacher,"Won from Sapotra (ST) in 2018","Active since 1999",C,196560,102211,94349,67.50
+2792,85,"Bandikui","Ramesh Kumar",General,SC,"AD-85",AAP,62,Graduate,Farmer,"Won from Bandikui in 2018","Active since 1999",A,167130,86907,80223,69.85
+2793,86,"Mahuwa","Sunita Devi",ST,GEN,"AD-86",INC,49,10th Pass,Lawyer,"Won from Mahuwa in 2018","Active since 1990",A,142963,74340,68623,70.38
+2794,87,"Sikrai (SC)","Priya Verma",SC,GEN,"AD-87",INC,43,Graduate,Teacher,"Won from Sikrai (SC) in 2018","Active since 2010",B,238446,123991,114455,50.16
+2795,88,"Dausa","Ramesh Kumar",SC,SC,"AD-88",BJP,48,Post Graduate,Farmer,"Won from Dausa in 2018","Active since 1992",C,284038,147699,136339,71.24
+2796,89,"Lalsot (ST)","Sunita Devi",SC,SC,"AD-89",BSP,57,10th Pass,Politician,"Won from Lalsot (ST) in 2018","Active since 1993",B,247606,128755,118851,72.47
+2713,90,"Gangapur","Ramesh Kumar",ST,OBC,"AD-90",BJP,47,Graduate,Lawyer,"Won from Gangapur in 2018","Active since 2003",B,196537,102199,94338,76.51
+2797,91,"Bamanwas(ST)","Sunita Devi",SC,OBC,"AD-91",BJP,51,Graduate,Farmer,"Won from Bamanwas(ST) in 2018","Active since 1991",A,104191,54179,50012,68.91
+2798,92,"Sawai Madhopur","Suresh Sharma",SC,GEN,"AD-92",BSP,64,PhD,Farmer,"Won from Sawai Madhopur in 2018","Active since 2003",B,171285,89068,82217,56.70
+2799,93,"Khandar (SC)","Priya Verma",SC,OBC,"AD-93",Independent,61,12th Pass,Teacher,"Won from Khandar (SC) in 2018","Active since 2001",A,293895,152825,141070,63.44
+2800,94,"Malpura","Suresh Sharma",General,SC,"AD-94",BSP,56,Graduate,Teacher,"Won from Malpura in 2018","Active since 2010",A,155931,81084,74847,53.62
+2801,95,"Niwai (SC)","Priya Verma",General,GEN,"AD-95",AAP,39,Post Graduate,Businessman,"Won from Niwai (SC) in 2018","Active since 2010",A,290152,150879,139273,78.68
+2802,96,"Tonk","Priya Verma",ST,ST,"AD-96",INC,67,PhD,Businessman,"Won from Tonk in 2018","Active since 2003",B,171602,89233,82369,67.49
+2803,97,"Deoli Uniara","Priya Verma",OBC,GEN,"AD-97",AAP,46,PhD,Politician,"Won from Deoli Uniara in 2018","Active since 1993",D,122585,63744,58841,70.77
+2804,98,"Kishangarh","Mohan Lal",OBC,SC,"AD-98",AAP,64,Post Graduate,Politician,"Won from Kishangarh in 2018","Active since 1994",A,262079,136281,125798,68.70
+2805,99,"Pushkar","Sunita Devi",General,OBC,"AD-99",BSP,38,PhD,Businessman,"Won from Pushkar in 2018","Active since 1992",A,156399,81327,75072,67.96
+2806,100,"Ajmer North","Sunita Devi",ST,SC,"AD-100",Independent,58,12th Pass,Teacher,"Won from Ajmer North in 2018","Active since 2000",B,114621,59602,55019,68.74
+2807,101,"Ajmer South (SC)","Sunita Devi",ST,ST,"AD-101",Independent,56,12th Pass,Businessman,"Won from Ajmer South (SC) in 2018","Active since 2008",D,288062,149792,138270,60.45
+2808,102,"Nasirabad","Sunita Devi",OBC,SC,"AD-102",AAP,67,12th Pass,Politician,"Won from Nasirabad in 2018","Active since 2005",D,216983,112831,104152,62.54
+2809,103,"BEAWAR","Priya Verma",ST,ST,"AD-103",Independent,62,PhD,Businessman,"Won from BEAWAR in 2018","Active since 1990",D,145424,75620,69804,53.31
+2810,104,"Masuda","Priya Verma",General,OBC,"AD-104",BJP,40,Post Graduate,Teacher,"Won from Masuda in 2018","Active since 2003",C,295551,153686,141865,55.71
+2811,105,"Kekri","Mohan Lal",OBC,GEN,"AD-105",BJP,46,Post Graduate,Farmer,"Won from Kekri in 2018","Active since 2008",C,182878,95096,87782,72.27
+2812,106,"Ladnun","Suresh Sharma",ST,GEN,"AD-106",INC,61,PhD,Businessman,"Won from Ladnun in 2018","Active since 1999",D,146977,76428,70549,68.86
+2813,107,"Deedwana","Priya Verma",ST,OBC,"AD-107",BSP,68,10th Pass,Teacher,"Won from Deedwana in 2018","Active since 2000",B,158666,82506,76160,68.11
+2814,108,"Jayal (SC)","Priya Verma",SC,GEN,"AD-108",AAP,43,Graduate,Politician,"Won from Jayal (SC) in 2018","Active since 1992",C,175623,91323,84300,54.36
+2815,109,"Nagaur","Sunita Devi",General,SC,"AD-109",BJP,38,12th Pass,Teacher,"Won from Nagaur in 2018","Active since 2006",C,262118,136301,125817,55.19
+2816,110,"Khinvsar","Priya Verma",ST,ST,"AD-110",BSP,45,12th Pass,Politician,"Won from Khinvsar in 2018","Active since 2004",C,169509,88144,81365,61.23
+2817,111,"MERTA (SC)","Mohan Lal",SC,SC,"AD-111",BJP,56,12th Pass,Farmer,"Won from MERTA (SC) in 2018","Active since 2003",B,121856,63365,58491,72.83
+2818,112,"DEGANA","Suresh Sharma",ST,SC,"AD-112",BJP,51,Graduate,Farmer,"Won from DEGANA in 2018","Active since 1994",D,185496,96457,89039,70.26
+2819,113,"Makrana","Mohan Lal",ST,SC,"AD-113",BJP,65,10th Pass,Lawyer,"Won from Makrana in 2018","Active since 1995",B,261955,136216,125739,68.20
+2820,114,"Parbatsar","Ramesh Kumar",ST,OBC,"AD-114",BJP,47,12th Pass,Farmer,"Won from Parbatsar in 2018","Active since 1996",C,118952,61855,57097,54.82
+2821,115,"Nawan","Mohan Lal",ST,OBC,"AD-115",BSP,35,PhD,Lawyer,"Won from Nawan in 2018","Active since 1991",A,251764,130917,120847,56.36
+2822,116,"JAITARAN","Suresh Sharma",ST,SC,"AD-116",Independent,62,12th Pass,Teacher,"Won from JAITARAN in 2018","Active since 1993",A,260421,135418,125003,54.00
+2823,117,"Sojat (SC)","Ramesh Kumar",ST,SC,"AD-117",BSP,44,Post Graduate,Lawyer,"Won from Sojat (SC) in 2018","Active since 1998",B,186084,96763,89321,57.62
+2824,118,"Pali","Mohan Lal",OBC,GEN,"AD-118",BJP,51,Graduate,Businessman,"Won from Pali in 2018","Active since 1994",B,194510,101145,93365,79.61
+2825,119,"Marwar Junction","Mohan Lal",General,OBC,"AD-119",INC,37,PhD,Teacher,"Won from Marwar Junction in 2018","Active since 1992",A,104085,54124,49961,72.63
+2826,120,"Bali","Mohan Lal",ST,ST,"AD-120",INC,49,Graduate,Politician,"Won from Bali in 2018","Active since 1995",D,159590,82986,76604,75.07
+2827,121,"Sumerpur","Priya Verma",OBC,ST,"AD-121",BJP,65,Post Graduate,Businessman,"Won from Sumerpur in 2018","Active since 1994",D,172192,89539,82653,67.96
+2828,122,"Phalodi","Ramesh Kumar",General,GEN,"AD-122",BSP,65,10th Pass,Farmer,"Won from Phalodi in 2018","Active since 2005",B,129438,67307,62131,64.09
+2829,123,"Lohawat","Mohan Lal",General,GEN,"AD-123",BSP,50,Graduate,Lawyer,"Won from Lohawat in 2018","Active since 2008",A,160864,83649,77215,76.48
+2830,124,"Shergarh","Sunita Devi",SC,ST,"AD-124",BSP,42,10th Pass,Politician,"Won from Shergarh in 2018","Active since 1999",C,109826,57109,52717,73.43
+2831,125,"Osian","Priya Verma",OBC,GEN,"AD-125",BJP,55,Post Graduate,Lawyer,"Won from Osian in 2018","Active since 1998",C,292528,152114,140414,74.68
+2832,126,"Bhopalgarh (SC)","Mohan Lal",SC,OBC,"AD-126",INC,43,Post Graduate,Lawyer,"Won from Bhopalgarh (SC) in 2018","Active since 2000",B,154120,80142,73978,53.52
+2833,127,"Sardarpura","Sunita Devi",ST,OBC,"AD-127",INC,60,10th Pass,Teacher,"Won from Sardarpura in 2018","Active since 2010",C,142539,74120,68419,67.01
+2834,128,"Jodhpur","Suresh Sharma",OBC,SC,"AD-128",INC,44,PhD,Lawyer,"Won from Jodhpur in 2018","Active since 2003",D,136176,70811,65365,52.70
+2835,129,"Soorsagar","Priya Verma",SC,GEN,"AD-129",BSP,39,PhD,Businessman,"Won from Soorsagar in 2018","Active since 2007",A,103971,54064,49907,52.08
+2836,130,"Luni","Sunita Devi",OBC,SC,"AD-130",AAP,61,10th Pass,Politician,"Won from Luni in 2018","Active since 1990",A,276490,143774,132716,57.00
+2837,131,"Bilara (SC)","Ramesh Kumar",General,SC,"AD-131",AAP,63,10th Pass,Politician,"Won from Bilara (SC) in 2018","Active since 2002",C,251777,130924,120853,61.44
+2838,132,"JAISALMER","Suresh Sharma",General,SC,"AD-132",BSP,50,Graduate,Politician,"Won from JAISALMER in 2018","Active since 2006",B,147011,76445,70566,73.86
+2839,133,"POKARAN","Sunita Devi",General,ST,"AD-133",AAP,62,PhD,Politician,"Won from POKARAN in 2018","Active since 2007",A,262260,136375,125885,62.07
+2840,134,"Sheo","Mohan Lal",General,ST,"AD-134",INC,59,10th Pass,Farmer,"Won from Sheo in 2018","Active since 2007",B,131094,68168,62926,69.57
+2841,135,"Barmer","Suresh Sharma",OBC,OBC,"AD-135",INC,39,Graduate,Politician,"Won from Barmer in 2018","Active since 2008",D,125481,65250,60231,51.49
+2842,136,"Baytoo","Priya Verma",ST,GEN,"AD-136",Independent,48,Graduate,Businessman,"Won from Baytoo in 2018","Active since 1996",B,156413,81334,75079,59.87
+2843,137,"Pachpadra","Mohan Lal",SC,OBC,"AD-137",Independent,42,PhD,Lawyer,"Won from Pachpadra in 2018","Active since 1997",B,191147,99396,91751,78.49
+2844,138,"Siwana","Sunita Devi",SC,SC,"AD-138",Independent,52,PhD,Lawyer,"Won from Siwana in 2018","Active since 2004",D,125965,65501,60464,73.24
+2845,139,"Gudamalani","Mohan Lal",General,ST,"AD-139",AAP,50,Graduate,Lawyer,"Won from Gudamalani in 2018","Active since 2007",A,296020,153930,142090,73.77
+2846,140,"Chohtan (SC)","Ramesh Kumar",OBC,ST,"AD-140",AAP,63,PhD,Politician,"Won from Chohtan (SC) in 2018","Active since 2010",A,281669,146467,135202,62.10
+2847,141,"Ahore","Mohan Lal",General,GEN,"AD-141",AAP,44,Post Graduate,Politician,"Won from Ahore in 2018","Active since 2005",D,206669,107467,99202,57.06
+2848,142,"Jalore (SC)","Ramesh Kumar",General,ST,"AD-142",AAP,51,10th Pass,Politician,"Won from Jalore (SC) in 2018","Active since 2007",C,211211,109829,101382,70.73
+2849,143,"Bhinmal","Priya Verma",SC,OBC,"AD-143",INC,60,Graduate,Lawyer,"Won from Bhinmal in 2018","Active since 1999",B,171164,89005,82159,54.79
+2850,144,"Sanchore","Priya Verma",General,SC,"AD-144",INC,66,Post Graduate,Businessman,"Won from Sanchore in 2018","Active since 1996",D,210889,109662,101227,50.09
+2851,145,"Raniwara","Sunita Devi",ST,GEN,"AD-145",BSP,67,PhD,Teacher,"Won from Raniwara in 2018","Active since 1997",B,133661,69503,64158,51.17
+2852,146,"Sirohi","Ramesh Kumar",General,OBC,"AD-146",AAP,70,PhD,Businessman,"Won from Sirohi in 2018","Active since 2009",B,174040,90500,83540,51.48
+2853,147,"Pindwara Abu (ST)","Priya Verma",ST,GEN,"AD-147",INC,50,Post Graduate,Politician,"Won from Pindwara Abu (ST) in 2018","Active since 2006",B,201148,104596,96552,61.68
+2854,148,"Reodar (SC)","Suresh Sharma",OBC,ST,"AD-148",AAP,49,Graduate,Farmer,"Won from Reodar (SC) in 2018","Active since 2002",D,162163,84324,77839,72.02
+2855,149,"Gogunda (ST)","Mohan Lal",ST,OBC,"AD-149",BJP,39,PhD,Farmer,"Won from Gogunda (ST) in 2018","Active since 1999",A,288698,150122,138576,58.26
+2856,150,"Jhadol (ST)","Sunita Devi",ST,GEN,"AD-150",BJP,60,10th Pass,Politician,"Won from Jhadol (ST) in 2018","Active since 2004",B,220354,114584,105770,75.26
+2857,151,"Kherwara (ST)","Mohan Lal",OBC,ST,"AD-151",AAP,70,Post Graduate,Politician,"Won from Kherwara (ST) in 2018","Active since 2003",A,238093,123808,114285,50.89
+2858,152,"Udaipur Rural (ST)","Mohan Lal",ST,GEN,"AD-152",INC,51,PhD,Businessman,"Won from Udaipur Rural (ST) in 2018","Active since 2007",B,292700,152204,140496,58.94
+2859,153,"Udaipur","Suresh Sharma",ST,OBC,"AD-153",BJP,60,Graduate,Lawyer,"Won from Udaipur in 2018","Active since 2000",C,193256,100493,92763,54.63
+2860,154,"Mavli","Ramesh Kumar",OBC,ST,"AD-154",BSP,45,Post Graduate,Teacher,"Won from Mavli in 2018","Active since 1990",D,175918,91477,84441,53.68
+2861,155,"Vallabnagar","Sunita Devi",OBC,ST,"AD-155",AAP,65,Post Graduate,Politician,"Won from Vallabnagar in 2018","Active since 2002",C,166548,86604,79944,56.49
+2862,156,"Salumber (ST)","Sunita Devi",SC,SC,"AD-156",BSP,58,Graduate,Businessman,"Won from Salumber (ST) in 2018","Active since 2001",D,109784,57087,52697,77.03
+2863,157,"Dhariawad (ST)","Ramesh Kumar",SC,OBC,"AD-157",INC,43,10th Pass,Lawyer,"Won from Dhariawad (ST) in 2018","Active since 1995",C,169309,88040,81269,55.05
+2864,158,"Dungarpur (ST)","Sunita Devi",General,SC,"AD-158",INC,38,12th Pass,Farmer,"Won from Dungarpur (ST) in 2018","Active since 2007",A,224861,116927,107934,79.86
+2865,159,"Aspur (ST)","Suresh Sharma",OBC,ST,"AD-159",BSP,36,12th Pass,Politician,"Won from Aspur (ST) in 2018","Active since 1994",D,266365,138509,127856,54.61
+2866,160,"Sagwara (ST)","Ramesh Kumar",General,SC,"AD-160",INC,40,12th Pass,Farmer,"Won from Sagwara (ST) in 2018","Active since 2005",D,162049,84265,77784,70.21
+2867,161,"Chorasi (ST)","Priya Verma",General,SC,"AD-161",BJP,61,Post Graduate,Businessman,"Won from Chorasi (ST) in 2018","Active since 2002",A,252858,131486,121372,56.76
+2868,162,"Ghatol (ST)","Ramesh Kumar",OBC,ST,"AD-162",BSP,56,Graduate,Politician,"Won from Ghatol (ST) in 2018","Active since 1995",C,235810,122621,113189,55.84
+2869,163,"Garhi (ST)","Ramesh Kumar",SC,SC,"AD-163",BSP,69,10th Pass,Politician,"Won from Garhi (ST) in 2018","Active since 1997",D,195647,101736,93911,68.93
+2870,164,"Banswara (ST)","Mohan Lal",OBC,ST,"AD-164",Independent,55,Post Graduate,Politician,"Won from Banswara (ST) in 2018","Active since 2004",C,293631,152688,140943,69.28
+2871,165,"Bagidora (ST)","Priya Verma",General,GEN,"AD-165",BSP,53,PhD,Teacher,"Won from Bagidora (ST) in 2018","Active since 2005",C,192066,99874,92192,59.60
+2872,166,"Kushalgarh (ST)","Sunita Devi",OBC,SC,"AD-166",BJP,50,Post Graduate,Farmer,"Won from Kushalgarh (ST) in 2018","Active since 1999",B,292837,152275,140562,66.66
+2873,167,"Kapasan (SC)","Priya Verma",SC,GEN,"AD-167",AAP,63,10th Pass,Teacher,"Won from Kapasan (SC) in 2018","Active since 1991",D,263209,136868,126341,59.66
+2874,168,"Begun","Priya Verma",OBC,SC,"AD-168",INC,52,Graduate,Politician,"Won from Begun in 2018","Active since 1992",B,147806,76859,70947,66.54
+2875,169,"Chittorgarh","Mohan Lal",OBC,OBC,"AD-169",BJP,38,Graduate,Lawyer,"Won from Chittorgarh in 2018","Active since 2009",B,288319,149925,138394,77.20
+2876,170,"Nimbahera","Sunita Devi",SC,SC,"AD-170",BSP,42,12th Pass,Teacher,"Won from Nimbahera in 2018","Active since 1996",C,105566,54894,50672,58.40
+2877,171,"Bari Sadri","Sunita Devi",General,OBC,"AD-171",BSP,40,Post Graduate,Politician,"Won from Bari Sadri in 2018","Active since 1999",D,239335,124454,114881,68.09
+2878,172,"Pratapgarh (ST)","Suresh Sharma",OBC,OBC,"AD-172",AAP,64,PhD,Politician,"Won from Pratapgarh (ST) in 2018","Active since 2010",D,132559,68930,63629,70.83
+2879,173,"BHIM","Sunita Devi",General,ST,"AD-173",BJP,66,Graduate,Businessman,"Won from BHIM in 2018","Active since 1996",A,194472,101125,93347,53.06
+2880,174,"KUMBHALGARH","Sunita Devi",ST,GEN,"AD-174",INC,59,Graduate,Teacher,"Won from KUMBHALGARH in 2018","Active since 2006",B,167507,87103,80404,72.37
+2881,175,"RAJSAMAND","Ramesh Kumar",General,GEN,"AD-175",AAP,64,PhD,Teacher,"Won from RAJSAMAND in 2018","Active since 2006",D,147934,76925,71009,66.58
+2882,176,"NATHDWARA","Ramesh Kumar",General,ST,"AD-176",Independent,44,12th Pass,Farmer,"Won from NATHDWARA in 2018","Active since 2003",B,241847,125760,116087,76.75
+2883,177,"Asind","Sunita Devi",General,SC,"AD-177",BSP,44,10th Pass,Businessman,"Won from Asind in 2018","Active since 1999",D,256528,133394,123134,62.51
+2884,178,"Mandal","Ramesh Kumar",SC,ST,"AD-178",BJP,36,PhD,Businessman,"Won from Mandal in 2018","Active since 1994",C,282453,146875,135578,58.70
+2885,179,"Sahara","Suresh Sharma",SC,ST,"AD-179",INC,66,10th Pass,Lawyer,"Won from Sahara in 2018","Active since 2002",D,239932,124764,115168,59.09
+2886,180,"Bhilwara","Suresh Sharma",OBC,ST,"AD-180",Independent,41,PhD,Politician,"Won from Bhilwara in 2018","Active since 2001",D,114388,59481,54907,70.05
+2887,181,"Shahpura(SC)","Mohan Lal",ST,SC,"AD-181",BSP,67,12th Pass,Farmer,"Won from Shahpura(SC) in 2018","Active since 1996",D,141114,73379,67735,52.78
+2888,182,"Jahazpur","Priya Verma",ST,GEN,"AD-182",BJP,44,Graduate,Lawyer,"Won from Jahazpur in 2018","Active since 1990",B,135828,70630,65198,66.81
+2889,183,"Mandalgarh","Suresh Sharma",OBC,SC,"AD-183",BSP,53,PhD,Lawyer,"Won from Mandalgarh in 2018","Active since 2003",A,247425,128661,118764,69.72
+2890,184,"Hindoli","Priya Verma",ST,OBC,"AD-184",BSP,58,10th Pass,Businessman,"Won from Hindoli in 2018","Active since 1994",B,144952,75375,69577,68.91
+2891,185,"Keshoraipatan (SC)","Suresh Sharma",SC,ST,"AD-185",INC,38,12th Pass,Farmer,"Won from Keshoraipatan (SC) in 2018","Active since 2009",B,279231,145200,134031,75.31
+2892,186,"Bundi","Suresh Sharma",ST,SC,"AD-186",BJP,37,PhD,Businessman,"Won from Bundi in 2018","Active since 2004",B,165938,86287,79651,71.17
+2893,187,"Pipalda","Ramesh Kumar",OBC,GEN,"AD-187",INC,52,Graduate,Lawyer,"Won from Pipalda in 2018","Active since 1995",A,193765,100757,93008,70.39
+2894,188,"Sangod","Mohan Lal",General,OBC,"AD-188",BJP,55,Post Graduate,Teacher,"Won from Sangod in 2018","Active since 1993",C,112927,58722,54205,78.94
+2895,189,"Kota North","Mohan Lal",ST,OBC,"AD-189",INC,69,10th Pass,Teacher,"Won from Kota North in 2018","Active since 1993",B,160221,83314,76907,69.56
+2896,190,"Kota South","Suresh Sharma",General,OBC,"AD-190",BSP,69,PhD,Farmer,"Won from Kota South in 2018","Active since 2008",B,285765,148597,137168,69.76
+2897,191,"Ladpura","Priya Verma",ST,SC,"AD-191",BJP,48,10th Pass,Lawyer,"Won from Ladpura in 2018","Active since 1996",A,260752,135591,125161,74.83
+2898,192,"Ramganj Mandi (SC)","Sunita Devi",OBC,GEN,"AD-192",INC,50,Post Graduate,Teacher,"Won from Ramganj Mandi (SC) in 2018","Active since 2001",B,190540,99080,91460,79.15
+2899,193,"Anta","Mohan Lal",ST,OBC,"AD-193",INC,35,10th Pass,Politician,"Won from Anta in 2018","Active since 1992",A,173534,90237,83297,57.51
+2900,194,"Kishanganj (ST)","Sunita Devi",ST,OBC,"AD-194",BJP,36,Graduate,Businessman,"Won from Kishanganj (ST) in 2018","Active since 2002",A,138503,72021,66482,59.23
+2901,195,"Baran Atru (SC)","Mohan Lal",General,ST,"AD-195",BJP,40,PhD,Businessman,"Won from Baran Atru (SC) in 2018","Active since 1995",C,117763,61236,56527,61.12
+2902,196,"Chhabra","Ramesh Kumar",SC,OBC,"AD-196",INC,57,Graduate,Lawyer,"Won from Chhabra in 2018","Active since 2000",A,132978,69148,63830,68.48
+2903,197,"Dag (SC)","Priya Verma",General,OBC,"AD-197",BSP,45,12th Pass,Politician,"Won from Dag (SC) in 2018","Active since 1993",B,192208,99948,92260,71.75
+2904,198,"Jhalrapatan","Suresh Sharma",SC,ST,"AD-198",AAP,65,Graduate,Lawyer,"Won from Jhalrapatan in 2018","Active since 2004",C,272551,141726,130825,58.86
+2731,199,"Khanpur","Ramesh Kumar",ST,ST,"AD-199",AAP,68,Graduate,Farmer,"Won from Khanpur in 2018","Active since 2009",D,151292,78671,72621,69.46
+2905,200,"Manohar Thana","Ramesh Kumar",OBC,GEN,"AD-200",AAP,46,PhD,Politician,"Won from Manohar Thana in 2018","Active since 1992",C,228285,118708,109577,78.77
